@@ -86,7 +86,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
     - [Data Analysis / Data Visualization](#python-data-analysis)
     - [Misc Scripts / iPython Notebooks / Codebases](#python-misc)
     - [Kaggle Competition Source Code](#python-kaggle)
-    - [Neural networks](#python-neural networks)
+    - [Neural networks](#python-neural-networks)
 - [Ruby](#ruby)
     - [Natural Language Processing](#ruby-nlp)
     - [General-Purpose Machine Learning](#ruby-general-purpose)
@@ -919,7 +919,7 @@ on MNIST digits[DEEP LEARNING]
 * [Introduction to machine learning with scikit-learn](https://github.com/justmarkham/scikit-learn-videos) - IPython notebooks from Data School's video tutorials on scikit-learn.
 * [Practical XGBoost in Python](http://education.parrotprediction.teachable.com/p/practical-xgboost-in-python) - comprehensive online course about using XGBoost in Python
 
-<a name="python-neural networks"/>
+<a name="python-neural-networks"></a>
 #### Neural networks
 * [Neural networks](https://github.com/karpathy/neuraltalk) - NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.
 * [Neuron](https://github.com/molcik/python-neuron) - Neuron is simple class for time series predictions. It's utilize LNU (Linear Neural Unit), QNU (Quadratic Neural Unit), RBF (Radial Basis Function), MLP (Multi Layer Perceptron), MLP-ELM (Multi Layer Perceptron - Extreme Learning Machine) neural networks learned with Gradient descent or LeLevenberg–Marquardt algorithm.
@@ -927,8 +927,6 @@ on MNIST digits[DEEP LEARNING]
 
 <a name="python-kaggle"></a>
 #### Kaggle Competition Source Code
-
-
 
 * [wiki challenge](https://github.com/hammer/wikichallenge) - An implementation of Dell Zhang's solution to Wikipedia's Participation Challenge on Kaggle
 * [kaggle insults](https://github.com/amueller/kaggle_insults) - Kaggle Submission for "Detecting Insults in Social Commentary"
